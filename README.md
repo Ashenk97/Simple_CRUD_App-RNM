@@ -4,4 +4,4 @@ This was done using React js,  Nodejs, Express js and MySQL. This is a simple CR
 
 ### First run 'npm install' in both client and server
 
-#### Then run the server using 'node index.js' and client using 'npm start'
+### Then run the server using 'node index.js' and client using 'npm start'
